@@ -1,0 +1,7 @@
+{
+  "name": "Copy of San Valentín Digital 2025",
+  "description": "Una aplicación web interactiva para crear cartas de amor personalizadas con fotos, música, cupones y un contador de días juntos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
